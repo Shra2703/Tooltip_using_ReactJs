@@ -25,3 +25,23 @@ body{
     color: brown;
 
 }
+
+.customize_buttons{
+    border: 1px solid black;
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+    width: 50%;
+}
+
+button{
+    margin-top: 20px;
+    height: 4rem;
+    width: 15rem;
+    margin-left: 8rem;
+    font-size: 1.3rem;
+    font-family: emoji;
+    border-radius: 47px;
+    cursor: pointer;
+}
