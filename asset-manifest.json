@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shra2703/Tooltip_using_ReactJs.git/static/css/main.cee2a91c.css",
+    "main.js": "/Shra2703/Tooltip_using_ReactJs.git/static/js/main.1f40076d.js",
+    "index.html": "/Shra2703/Tooltip_using_ReactJs.git/index.html",
+    "main.cee2a91c.css.map": "/Shra2703/Tooltip_using_ReactJs.git/static/css/main.cee2a91c.css.map",
+    "main.1f40076d.js.map": "/Shra2703/Tooltip_using_ReactJs.git/static/js/main.1f40076d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee2a91c.css",
+    "static/js/main.1f40076d.js"
+  ]
+}
