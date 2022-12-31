@@ -29,7 +29,8 @@ const Button = (props) => {
           // className="tooltiptext top"
           className={`tooltiptext ${props.value}`}
         >
-          Thanks for Hovering ! I am a {props.value} position tooltip
+          {/* Thanks for Hovering ! I am a {props.value} position tooltip */}
+          {props.content}
         </span>
       </button>
     </>
